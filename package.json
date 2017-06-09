@@ -1,0 +1,22 @@
+{
+  "name": "pull-contacts-from-email",
+  "version": "1.0.0",
+  "description": "Pull contacts from your gmail inbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argvil19/pull-contacts-from-email.git"
+  },
+  "author": "Argenis Villasmil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argvil19/pull-contacts-from-email/issues"
+  },
+  "homepage": "https://github.com/argvil19/pull-contacts-from-email#readme",
+  "dependencies": {
+    "imap": "^0.8.19"
+  }
+}
